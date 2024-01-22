@@ -1,0 +1,7 @@
+.vscode/*
+.env
+node_modules/
+.cache/
+.upm/
+.config/
+replit_zip_error_log.txt
